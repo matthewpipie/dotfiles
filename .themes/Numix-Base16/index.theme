@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix-Base16
+Comment=fork of Numix to use Base16 colors
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Numix-Base16
+MetacityTheme=Numix-Base16
+ButtonLayout=:minimize,maximize,close
